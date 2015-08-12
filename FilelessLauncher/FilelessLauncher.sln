@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.22823.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "FilelessLauncher", "FilelessLauncher\FilelessLauncher.vcxproj", "{03B8EDBA-3E32-46FA-9586-48792C454F39}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DummyProcess", "DummyProcess\DummyProcess.vcxproj", "{5C8A923F-80D2-45BA-83E8-77DFA40A7342}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ReplacementProcess", "ReplacementProcess\ReplacementProcess.vcxproj", "{5CE0D99D-5509-45EB-96B7-83FFDAF83ED8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{03B8EDBA-3E32-46FA-9586-48792C454F39}.Debug|x86.ActiveCfg = Debug|Win32
+		{03B8EDBA-3E32-46FA-9586-48792C454F39}.Debug|x86.Build.0 = Debug|Win32
+		{03B8EDBA-3E32-46FA-9586-48792C454F39}.Release|x86.ActiveCfg = Release|Win32
+		{03B8EDBA-3E32-46FA-9586-48792C454F39}.Release|x86.Build.0 = Release|Win32
+		{5C8A923F-80D2-45BA-83E8-77DFA40A7342}.Debug|x86.ActiveCfg = Debug|Win32
+		{5C8A923F-80D2-45BA-83E8-77DFA40A7342}.Debug|x86.Build.0 = Debug|Win32
+		{5C8A923F-80D2-45BA-83E8-77DFA40A7342}.Release|x86.ActiveCfg = Release|Win32
+		{5C8A923F-80D2-45BA-83E8-77DFA40A7342}.Release|x86.Build.0 = Release|Win32
+		{5CE0D99D-5509-45EB-96B7-83FFDAF83ED8}.Debug|x86.ActiveCfg = Debug|Win32
+		{5CE0D99D-5509-45EB-96B7-83FFDAF83ED8}.Debug|x86.Build.0 = Debug|Win32
+		{5CE0D99D-5509-45EB-96B7-83FFDAF83ED8}.Release|x86.ActiveCfg = Release|Win32
+		{5CE0D99D-5509-45EB-96B7-83FFDAF83ED8}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
